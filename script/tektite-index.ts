@@ -1,4 +1,4 @@
-import { minamo } from "../../nephila/minamo.js/index.js";
+import { minamo } from "minamo.js";
 import { Locale } from "./tektite-locale";
 import { TektiteDate } from "./tektite-date";
 import { Fullscreen as FullscreenModule } from "./tektite-fullscreen";

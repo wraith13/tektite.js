@@ -29,8 +29,12 @@
         "pretty": false,
         "noEmitOnError": true,
         "esModuleInterop": true,
+        "resolveJsonModule": true,
         "outFile": "index.js",
-        "rootDir": "."
+        "paths": {
+            "@nephila/*": [ "../../*", ],
+            "minamo.js": [ "../../minamo.js", ]
+        }
     },
     "exclude": [
     ]

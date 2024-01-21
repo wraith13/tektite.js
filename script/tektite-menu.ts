@@ -1,4 +1,4 @@
-import { minamo } from "../../nephila/minamo.js/index.js";
+import { minamo } from "minamo.js";
 import { Tektite } from "./tektite-index.js";
 export module Menu
 {

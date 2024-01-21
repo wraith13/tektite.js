@@ -1,4 +1,4 @@
-import { minamo } from "../../nephila/minamo.js/index.js";
+import { minamo } from "minamo.js";
 import { Tektite } from "./tektite-index";
 import { ViewModel } from "./tektite-view-model.js";
 import { ViewRenderer } from "./tektite-view-renderer.js";
